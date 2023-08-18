@@ -1,7 +1,7 @@
 
 
 
-# Hi there, I'm [Ashok Yelagandula] 👋
+# Hi there, I'm Ashok Yelagandula 👋
 
 I'm a passionate Java developer with expertise in Spring Boot, Hibernate, and SQL. I enjoy building robust and efficient backend systems that power modern applications.
 
@@ -21,7 +21,7 @@ I'm a passionate Java developer with expertise in Spring Boot, Hibernate, and SQ
 
 ## 📫 Contact Me
 
-- LinkedIn: (www.linkedin.com/in/ashok-yelagandula)
+- LinkedIn: www.linkedin.com/in/ashok-yelagandula
 - Email: ashokyelagandula223@gmail.com
 
 ## 🌱 Fun Fact
