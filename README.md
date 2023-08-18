@@ -2,8 +2,9 @@
 
 
 # Hi there, I'm Ashok Yelagandula 👋
-
+## About me
 I'm a passionate Java developer with expertise in Spring Boot, Hibernate, and SQL. I enjoy building robust and efficient backend systems that power modern applications.
+I am a skilled software engineer proficient in Java, Spring Boot, Hibernate, and SQL. With a solid foundation in OOP and problem-solving, I create efficient and scalable solutions. During my training at GEEKSTER, I mastered data structures and completed over 450 challenges on Hackerrank. I excel in teamwork, communication, and adapting to new technologies. Let's connect to discuss how I can contribute to your team's success.
 
 ## Technologies at My Fingertips
 
